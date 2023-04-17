@@ -8,7 +8,7 @@ RUN npm install
 
 COPY server.js .
 
-EXPOSE 8080
+EXPOSE 3000
 
 HEALTHCHECK CMD curl --fail http://localhost:3000 || exit 1
 
