@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR  /sit323-737-2023-t1-prac5p
+WORKDIR  /sit323-737-2023-t1-prac7
 
 COPY package*.json ./
 

@@ -1,7 +1,7 @@
 version: '3'
 services:
   webp4:
-    image: prac5p
+    image: prac7c:v1
     ports:
       - "8080:8080"
     restart: on-failure

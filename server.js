@@ -42,7 +42,7 @@ const div= (n1,n2) => {
   return n1/n2;
 }
 const power= (n1,n2) => {
-  return n1*n2;
+  return n1**n2;
 }
 app.get("/add", (req,res)=>{
     try{

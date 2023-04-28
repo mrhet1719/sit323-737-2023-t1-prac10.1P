@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: mynode
-        image: prashanth1211/sit323-737-2023-t1-prac5p:latest
+        image: prashanth1211/prac5p:v1
         ports:
         - containerPort: 8080
