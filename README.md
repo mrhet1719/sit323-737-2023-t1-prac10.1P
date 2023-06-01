@@ -10,8 +10,8 @@ docker compose up
 ```
 ## Command to push the image to hub
 ```
- docker tag <image name> <username>/<image name>:<tag>
- docker push <username>/<image name>:<tag>
+ docker tag <image name> <username>/<imagename>:<tag>
+ docker push <username>/<imagename>:<tag>
 ```
 
 ## Application of Dashboard adminuser 
